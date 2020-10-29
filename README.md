@@ -62,4 +62,4 @@ Test out the API routes in your application of choice, e.g. Insomnia Core or Pos
   DELETE a tag by id: http://localhost:3001/api/tags/1
 
   ## Video Walkthrough
-  A video walkthrough of the application in action can be found [here](#).
+  A video walkthrough of the application in action can be found [here](https://drive.google.com/file/d/1_CC5XPEjDxazyhiIVc1g57ampLc5Y2v8/view).
